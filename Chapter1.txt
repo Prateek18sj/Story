@@ -1,0 +1,3 @@
+Hi, this is my first chapter using
+command line, so I welcome you all 
+in this journey with me.
